@@ -11,7 +11,7 @@ Bu repo [Kodluyoruz](kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk 
  Link:https://github.com/fatihkulen/kodluyoruzilkrepo.git
 
 
- # Usage
+ ## Usage
 
  Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
@@ -19,3 +19,7 @@ Bu repo [Kodluyoruz](kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk 
 
  cd kodluyoruzilkrepo
  code .
+
+ ## Contributing
+
+ Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.

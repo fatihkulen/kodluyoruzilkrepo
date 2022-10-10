@@ -1,4 +1,4 @@
-# kodluyoruz ilk repo
+# Kodluyoruz İlk Repo
 Kodluyoruz eğitimi kapsamında açtığım ilk repo
 
 

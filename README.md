@@ -28,4 +28,4 @@ Bu repo [Kodluyoruz](kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk 
 
  [MIT](https://choosealicense.com/licenses/mit/)
 
- [patika](www.patika.dev)
+ 
